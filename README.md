@@ -1,7 +1,7 @@
-Pdf Sorter
-==========
+<<Project Name>>
+================
 
-[![Build status](https://travis-ci.org/KentCommunications/pdfSorter-java.svg)](https://travis-ci.org/KentCommunications/pdfSorter-java)
+[![Build status](Badge Link)](Building Link)
 
 Prerequisites
 -------------
@@ -19,15 +19,16 @@ you should clone this repo into your favorite working directory.
 #### Clone
 
     cd <working directory>
-    git clone git@github.com:KentCommunications/pdfSorter-java.git pdfsorter
-    cd pdfsorter
+    git clone git@github.com:KentCommunications/<<Project Name>.git <<Project Name>>
+    cd <<Project Name>>
 
 Next we should make sure [Gradle](http://www.gradle.org/) is working.
 
 #### Gradle
 
 We have included the Gradle Wrapper in our project, to help make it easier for everyone.
-All you need to do in order to make sure Gradle is working properly is run gradlew (gradlew.bat for windows users):
+All you need to do in order to make sure Gradle is working properly is run gradlew 
+(gradlew.bat for windows users):
 
     ./gradlew assemble
 
@@ -62,16 +63,16 @@ once we have a little more done, we will cover how to contribute in more detail.
 Contributing
 ------------
 
-Be sure to read the [CONTRIBUTING.md](https://github.com/KentCommunications/pdfSorter-java/blob/master/CONTRIBUTING.md)
+Be sure to read the [CONTRIBUTING.md](Link to Contriubiting file)
 document in this repository for further information about how to contribute to this project.
 
-Before you contribute you will also need to sign our [CLA](https://github.com/KentCommunications/pdfSorter-java/blob/master/CLA.md)
+Before you contribute you will also need to sign our [CLA](Link to CLA file)
 which is hosted by [CLAHub](https://www.clahub.com/).
 
 Copyright
 ---------
 
-Copyright 2014 Kyle Chamberlin
+Copyright 2014 <<Organization>>
 
 License
 -------

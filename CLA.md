@@ -1,18 +1,18 @@
-Thank you for your interest in the pdfSorter open source project being
-administered by Kyle Chamberlin. The form of license below is a document that
+Thank you for your interest in the <<Project Name>> open source project being
+administered by <<Administrator>>. The form of license below is a document that
 clarifies the terms under which You, the person listed below, may contribute
 software, bug fixes, configuration changes, documentation, or any other
 materials that you send to us related to the Project (each a “Contribution”) to
 the project. We appreciate your participation in our project, and your help in
 improving the project, so we want you to understand what will be done with the
 Contributions. This license is for your protection as well as the protection of
-Kent Communications and its licensees; it does not change your rights to use your own
+<<Organization>> and its licensees; it does not change your rights to use your own
 Contributions for any other purpose. Please complete the following information
 about you and the Contributions and sign electronically by filling out the form
 below.
 
 If you have questions about these terms, please contact me at
-KyleC@KentCommunications.com.
+<<email address>>.
 
 ### Corporate Contributions:
 
@@ -22,9 +22,9 @@ rights in the Contributions, please provide information about your employer’s
 policy on contributing to open source projects, including the name of the
 supervisor to contact in connection with such contributions.
 
-### You and Kent Communications agree:
+### You and <<Organization>> agree:
 - You grant us the ability to use the Contributions in any
-way. You hereby grant to Kent Communications, a non-exclusive, irrevocable, worldwide,
+way. You hereby grant to <<Organization>>, a non-exclusive, irrevocable, worldwide,
 royalty-free, sublicenseable, transferable license under all of Your relevant
 intellectual property rights (including copyright, patent, and any other
 rights), to use, copy, prepare derivative works of, distribute and publicly
@@ -50,10 +50,10 @@ intellectual property rights in the Contributions to an employer or customer,
 that would conflict with the terms of this license.
 - We determine the code that
 is in our project. You understand that the decision to include the Contribution
-in any project or source repository is entirely that of Kent Communications, and this
+in any project or source repository is entirely that of <<Organization>>, and this
 agreement does not guarantee that the Contributions will be included in any
 product.
-- No Implied Warranties. Kent Communications acknowledges that, except as explicitly
+- No Implied Warranties. <<Organization>> acknowledges that, except as explicitly
 described in this Agreement, the Contribution is provided on an “AS IS” BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED,
 INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OR CONDITIONS OF TITLE,

@@ -66,15 +66,15 @@ an issue number.
 
 ## Submitting Changes
 
-* Sign the [Contributor License Agreement](https://www.clahub.com/agreements/KentCommunications/pdfSorter-java).
+* Sign the [Contributor License Agreement](https://www.clahub.com/).
 * Push your changes to a topic branch in your fork of the repository.
-* Submit a pull request to the repository in the KentCommunications organization.
+* Submit a pull request to the repository in the organization.
 * The core team looks at Pull Requests on a regular basis.
 * After feedback has been given we expect responses within two weeks. After two
   weeks will may close the pull request if it isn't showing any activity.
 
 # Additional Resources
 
-* [Contributor License Agreement](https://www.clahub.com/agreements/KentCommunications/pdfSorter-java)
+* [Contributor License Agreement](https://www.clahub.com/)
 * [General GitHub documentation](http://help.github.com/)
 * [GitHub pull request documentation](http://help.github.com/send-pull-requests/)
